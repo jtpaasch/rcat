@@ -24,7 +24,7 @@ pub const NO_ARGS_ERR : &'static str = "Not enough arguments!";
 
 /// A message for help/usage.
 pub const USAGE : &'static str =
-r#"USAGE: hcat [OPTIONS] [ARGEMNTS]
+r#"USAGE: rcat [OPTIONS] [ARGEMNTS]
 
   A simple cat program.
 
